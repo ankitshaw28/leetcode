@@ -13,6 +13,10 @@ public:
                 sum = 0;
             }
         }
+        // if there is no sum > 0 and we have to return an empty array with 0 output 
+        /*if(maxi < 0) {
+            maxi = 0;
+        }*/
         return maxi;
     }
 };
