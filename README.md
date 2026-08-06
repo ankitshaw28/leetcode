@@ -87,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitshaw28/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankitshaw28/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankitshaw28/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
